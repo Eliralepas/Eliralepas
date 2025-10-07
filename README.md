@@ -13,7 +13,7 @@
 
 - En développement Data : index, vues, PL/SQL
 - En développement web : PHP
-- En programmation : "Design Patterns"
+- En programmation : Design Patterns
 
 ## Mes projets étudiants
 
@@ -21,7 +21,7 @@
 |--------|---------|-------------|-------|-------------------------|------|
 | Jeu de rôle | Java | Simulation d'une partie de Donjons et Dragon | 5 semaines | 2 | [Jeu de role](https://github.com/Eliralepas/jeu-de-role) |
 | Jeu sérieux | Godot/GDScript | Mon premier jeu avec Godot | 14 semaines | 4 | [Jeu serieux](https://github.com/Eliralepas/jeu-serieux) |
-| Application de gestion | C#/SQL/.NET | Projet s'appuyant sur une large base de données | 5 semaines | 3 | [Application de gestion](https://github.com/Eliralepas/gestion-pompier) |
+| Logicielle de gestion de caserne de pompier | C#/SQL/.NET | Projet s'appuyant sur une large base de données | 5 semaines | 3 | [Application de gestion](https://github.com/Eliralepas/gestion-caserne) |
 
 ## Langages  
 <p align="left">
@@ -30,7 +30,7 @@
 
 ## Objectifs
 - Obtenir un stage pour mettre en pratique mes connaissances
-- Découvrir de nouveaux languages et frameworks
+- Découvrir de nouveaux langages et frameworks
 - Et ... coder encore plus !!
 
 ## Me contacter
