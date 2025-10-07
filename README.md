@@ -23,7 +23,10 @@
 | Jeu sérieux | Godot/GDScript | Mon premier jeu avec Godot | 14 semaines | 4 | [Jeu serieux](https://github.com/Eliralepas/jeu-serieux) |
 | Application de gestion | C#/SQL/.NET | Projet s'appuyant sur une large base de données | 5 semaines | 3 | [Application de gestion](https://github.com/Eliralepas/gestion-pompier) |
 
-## Compétences
+## Langages  
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cs,dotnet,java,python,html,css,js,mysql,sqlite,php,godot" />
+</p>
 
 ## Objectifs
 - Obtenir un stage pour mettre en pratique mes connaissances
