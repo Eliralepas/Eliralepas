@@ -17,12 +17,13 @@
 
 ## Mes projets étudiants
 
-- **Application de gestion** : C#/SQL/.NET, 5 semaines, 3 développeurs
-- **Jeu sérieux** : Godot (GDScript) et GIT, 14 semaines, 4 développeurs
-- **Jeu de rôle** : Java, Programmation orienté objet, 5 semaines, 2 développeurs
-- **Simulation d'un réseau en C** : 4 semaines, 2 développeurs
-- **Résolveur de sudoku** : Assembleur, 3 semaines, 2 développeurs
-- **Jeu de dés** : C#/HTML-CSS-JavaScript, 3 semaines, 2 développeurs
+| Projet | Langage | Description | Durée | Nombres de développeurs | Lien |
+|--------|---------|-------------|-------|-------------------------|------|
+| Jeu de rôle | Java | Simulation d'une partie de Donjons et Dragon | 5 semaines | 2 | [Jeu de role](https://github.com/Eliralepas/jeu-de-role) |
+| Jeu sérieux | Godot/GDScript | Mon premier jeu avec Godot | 14 semaines | 4 | [Jeu serieux](https://github.com/Eliralepas/jeu-serieux) |
+| Application de gestion | C#/SQL/.NET | Projet s'appuyant sur une large base de données | 5 semaines | 3 | [Application de gestion](https://github.com/Eliralepas/gestion-pompier) |
+
+## Compétences
 
 ## Objectifs
 - Obtenir un stage pour mettre en pratique mes connaissances
