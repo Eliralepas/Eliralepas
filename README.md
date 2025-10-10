@@ -35,4 +35,3 @@
 
 ## Me contacter
 ✉️ elif.meral@outlook.fr <br>
-📞​ 06.72.75.44.40
