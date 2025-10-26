@@ -23,6 +23,7 @@
 | Jeu sérieux | Godot/GDScript | Mon premier jeu avec Godot | 14 semaines | 4 | [Jeu serieux](https://github.com/Eliralepas/jeu-serieux) |
 | Logicielle de gestion de caserne de pompier | C#/SQL/.NET | Projet s'appuyant sur une large base de données | 5 semaines | 3 | [Application de gestion](https://github.com/Eliralepas/gestion-caserne) |
 | Jeu de Yams | C#, HTML/CSS/JavaScript | Simulation d'une partie de Yams sur console | 3 semaines | 2 | [Jeu de Yams](https://github.com/Eliralepas/jeu-de-yams) |
+| Simulation d'un réseau | C | Dévelopement d'un réseau | 4 semaines | 2 | [Réseau](https://github.com/Eliralepas/SAE-reseau) |
 
 ## Langages et logiciels maitrisés
 
@@ -41,15 +42,13 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel" />
 </p>
 
-### 🛠️ Outils et IDEs
+### Outils et IDEs
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,idea,godot" />
 </p>
 
-## Objectifs
-- Obtenir un stage pour mettre en pratique mes connaissances
-- Découvrir de nouveaux langages et frameworks
-- Et ... coder encore plus !!
+## Statistiques GitHub
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Eliralepas&layout=compact&theme=gruvbox&size_weight=0.5&count_weight=0.5)
 
 ## Me contacter
 ✉️ elif.meral@outlook.fr <br>
