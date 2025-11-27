@@ -20,10 +20,11 @@
 | Projet | Langage | Description | Durée | Nombres de développeurs | Lien |
 |--------|---------|-------------|-------|-------------------------|------|
 | Jeu de rôle | Java | Simulation d'une partie de Donjons et Dragon | 5 semaines | 2 | [Jeu de role](https://github.com/Eliralepas/jeu-de-role) |
-| Jeu sérieux | Godot/GDScript | Mon premier jeu avec Godot | 14 semaines | 4 | [Jeu serieux](https://github.com/Eliralepas/jeu-serieux) |
+| Jeu sérieux | Godot/GDScript | L'aménagement d'une station polaire et la gestion des relations humaines | 16 semaines | 4 | [Jeu serieux](https://github.com/Eliralepas/jeu-serieux) |
 | Logicielle de gestion de caserne de pompier | C#/SQL/.NET | Projet s'appuyant sur une large base de données | 5 semaines | 3 | [Application de gestion](https://github.com/Eliralepas/gestion-caserne) |
 | Jeu de Yams | C#, HTML/CSS/JavaScript | Simulation d'une partie de Yams sur console | 3 semaines | 2 | [Jeu de Yams](https://github.com/Eliralepas/jeu-de-yams) |
 | Simulation d'un réseau | C | Dévelopement d'un réseau | 4 semaines | 2 | [Réseau](https://github.com/Eliralepas/SAE-reseau) |
+| Solveur de sudoku | Assembleur (MIPS32), Mars | Brute force des solutions d'une grille de sudoku | 3 semaines | 2 | [Sudoku solver](https://github.com/Eliralepas/Sudoku-solver) |
 
 ## Langages et logiciels maitrisés
 
