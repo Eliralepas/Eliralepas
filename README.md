@@ -2,12 +2,10 @@
     <img src="Assets/hi.gif" </img>
 </div>
 
-## Salut, je suis Elif :D 👋
+## Salut, je suis Elif :D 
 
-🎓 Étudiante en 2e année BUT Informatique <br>
-💻 Passionnée par le développement <br>
-🧶 J'adore le crochet et découvrir de nouvelles hobbies <br>
-👩‍💻​ Actuellement en recherche d'un stage <br>
+Je suis étudiante en 2e année BUT Informatique, IUT Robert Schuman Illkirch.J'ai acquis de nombreuses compétences en développement web, programmation et gestion de base de données.
+J'adore le crochet et découvrir de nouvelles hobbies. Je suis actuellement en recherche d'un stage.
 
 ## Ce que j'apprends actuellement
 
