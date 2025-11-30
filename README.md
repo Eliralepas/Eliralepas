@@ -1,11 +1,16 @@
 <div align="center">
-    <img src="Assets/hi.gif" </img>
+    <img src="Assets/snoopy_dance.gif" style="width:300px; height:300px;"/>
 </div>
 
 ## Salut, je suis Elif :D 
 
-Je suis étudiante en 2e année BUT Informatique, IUT Robert Schuman Illkirch.J'ai acquis de nombreuses compétences en développement web, programmation et gestion de base de données.
-J'adore le crochet et découvrir de nouvelles hobbies. Je suis actuellement en recherche d'un stage.
+Je suis étudiante en 2e année BUT Informatique, IUT Robert Schuman Illkirch.<br>
+J'ai acquis de nombreuses compétences en développement web, programmation et gestion de base de données.
+
+<div align="center">
+    <img src="Assets/snoopy-peanuts.gif"/> <br>
+    <b> Je suis actuellement en recherche d'un stage. </b>
+</div>
 
 ## Ce que j'apprends actuellement
 
@@ -47,7 +52,7 @@ J'adore le crochet et découvrir de nouvelles hobbies. Je suis actuellement en r
 </p>
 
 ## Statistiques GitHub
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Eliralepas&layout=compact&theme=gruvbox&size_weight=0.5&count_weight=0.5)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Eliralepas&layout=compact&theme=gruvbox&size_weight=0.5count_weight=0.5)
 
 ## Me contacter
 ✉️ elif.meral@outlook.fr <br>
