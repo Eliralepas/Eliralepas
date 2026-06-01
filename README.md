@@ -9,13 +9,13 @@ J'ai acquis de nombreuses compétences en développement web, programmation et g
 
 <div align="center">
     <img src="Assets/snoopy-peanuts.gif"/> <br>
-    <b> Je suis actuellement en recherche d'un stage. </b>
+    <b> Je suis actuellement en recherche d'une alternance. </b>
 </div>
 
 ## Ce que j'apprends actuellement
 
 - En développement Data : index, vues, PL/SQL
-- En développement web : PHP
+- En développement web : PHP, Laravel, Django
 - En programmation : Design Patterns
 
 ## Mes projets étudiants
@@ -38,12 +38,12 @@ J'ai acquis de nombreuses compétences en développement web, programmation et g
 
 ### Base de données
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql" />
 </p>
 
 ### Web
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,django" />
 </p>
 
 ### Outils et IDEs
