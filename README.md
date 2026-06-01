@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="Assets/snoopy_cool.gif" style="width:300px; height:300px;"/>
+    <img src="Assets/snoopy_cool.gif"/>
 </div>
 
 ## Salut, je suis Elif :D 
